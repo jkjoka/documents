@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.28)  18 MAY 2017 14:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2017.4.28)  19 MAY 2017 15:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -373,23 +373,24 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-(./controls.aux)
+(/usr/share/texlive/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+) (./controls.aux)
 \openout1 = `controls.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count88
 \scratchdimen=\dimen105
@@ -451,78 +452,142 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-[1
+<img/pmeme.jpg, id=1, 622.325pt x 427.5975pt>
+File: img/pmeme.jpg Graphic file (type jpg)
+ <use img/pmeme.jpg>
+Package pdftex.def Info: img/pmeme.jpg used on input line 35.
+(pdftex.def)             Requested size: 373.39787pt x 256.56047pt.
+ [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [1
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./img/pmeme.jpg>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 52.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 52.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 52.
 
-]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 49.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 49.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 49.
-
-<iP_matrix.png, id=11, 698.61pt x 243.91125pt>
+<iP_matrix.png, id=9, 698.61pt x 243.91125pt>
 File: iP_matrix.png Graphic file (type png)
  <use iP_matrix.png>
-Package pdftex.def Info: iP_matrix.png used on input line 52.
+Package pdftex.def Info: iP_matrix.png used on input line 55.
 (pdftex.def)             Requested size: 279.43904pt x 97.56276pt.
 
-<iP_diagram.png, id=13, 470.75874pt x 349.305pt>
+<iP_diagram.png, id=11, 470.75874pt x 349.305pt>
 File: iP_diagram.png Graphic file (type png)
  <use iP_diagram.png>
-Package pdftex.def Info: iP_diagram.png used on input line 53.
+Package pdftex.def Info: iP_diagram.png used on input line 56.
 (pdftex.def)             Requested size: 141.22871pt x 104.7923pt.
 
-<3cart_diagram.png, id=14, 767.86874pt x 288.07625pt>
+<3cart_diagram.png, id=12, 767.86874pt x 288.07625pt>
 File: 3cart_diagram.png Graphic file (type png)
  <use 3cart_diagram.png>
-Package pdftex.def Info: 3cart_diagram.png used on input line 58.
+Package pdftex.def Info: 3cart_diagram.png used on input line 71.
 (pdftex.def)             Requested size: 230.3624pt x 86.42354pt.
 
-[2
+[1
 
- <./iP_matrix.png> <./iP_diagram.png> <./3cart_diagram.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 63--66
-
- []
-
-
+ <./iP_matrix.png> <./iP_diagram.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 77--79
 
  []
 
-[3
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 80--82
+[2 <./3cart_diagram.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
 
  []
 
-[4
+<iP_figure1.png, id=27, 551.05875pt x 414.54875pt>
+File: iP_figure1.png Graphic file (type png)
+ <use iP_figure1.png>
+Package pdftex.def Info: iP_figure1.png used on input line 96.
+(pdftex.def)             Requested size: 220.41959pt x 165.81656pt.
 
-] (./controls.aux) ) 
+<iP_figure2.png, id=28, 551.05875pt x 417.56pt>
+File: iP_figure2.png Graphic file (type png)
+ <use iP_figure2.png>
+Package pdftex.def Info: iP_figure2.png used on input line 97.
+(pdftex.def)             Requested size: 220.41959pt x 167.02103pt.
+
+<lqrip-lab.png, id=29, 562.1pt x 421.575pt>
+File: lqrip-lab.png Graphic file (type png)
+ <use lqrip-lab.png>
+Package pdftex.def Info: lqrip-lab.png used on input line 103.
+(pdftex.def)             Requested size: 224.83601pt x 168.627pt.
+
+<ppip-lab.png, id=30, 562.1pt x 421.575pt>
+File: ppip-lab.png Graphic file (type png)
+ <use ppip-lab.png>
+Package pdftex.def Info: ppip-lab.png used on input line 104.
+(pdftex.def)             Requested size: 224.83601pt x 168.627pt.
+
+<lqr3cart-lab.png, id=31, 562.1pt x 421.575pt>
+File: lqr3cart-lab.png Graphic file (type png)
+ <use lqr3cart-lab.png>
+Package pdftex.def Info: lqr3cart-lab.png used on input line 110.
+(pdftex.def)             Requested size: 224.83601pt x 168.627pt.
+
+<lqr3cart-sim.png, id=32, 562.1pt x 421.575pt>
+File: lqr3cart-sim.png Graphic file (type png)
+ <use lqr3cart-sim.png>
+Package pdftex.def Info: lqr3cart-sim.png used on input line 111.
+(pdftex.def)             Requested size: 224.83601pt x 168.627pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: lqr3cart-lab.png Graphic file (type png)
+<use lqr3cart-lab.png>
+Package pdftex.def Info: lqr3cart-lab.png used on input line 117.
+(pdftex.def)             Requested size: 224.83601pt x 168.627pt.
+ <pp3cart-lab.png, id=33, 562.1pt x 421.575pt>
+File: pp3cart-lab.png Graphic file (type png)
+
+<use pp3cart-lab.png>
+Package pdftex.def Info: pp3cart-lab.png used on input line 118.
+(pdftex.def)             Requested size: 224.83601pt x 168.627pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[3 <./iP_figure1.png> <./iP_figure2.png (PNG copy)> <./lqrip-lab.png (PNG copy)
+> <./ppip-lab.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
+
+ []
+
+[4 <./lqr3cart-lab.png (PNG copy)> <./lqr3cart-sim.png (PNG copy)> <./pp3cart-l
+ab.png (PNG copy)>] [5] (./controls.aux) ) 
 Here is how much of TeX's memory you used:
- 1808 strings out of 494902
- 24001 string characters out of 6179891
- 79564 words of memory out of 5000000
- 5101 multiletter control sequences out of 15000+600000
+ 1867 strings out of 494902
+ 25052 string characters out of 6179891
+ 81688 words of memory out of 5000000
+ 5146 multiletter control sequences out of 15000+600000
  7636 words of font info for 27 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 39i,5n,25p,460b,175s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmm
-i12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on controls.pdf (5 pages, 152223 bytes).
+ 39i,6n,25p,1235b,216s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on controls.pdf (6 pages, 368325 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
- 37 compressed objects within 1 object stream
+ 71 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
