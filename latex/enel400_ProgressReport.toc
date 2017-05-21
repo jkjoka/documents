@@ -1,8 +1,10 @@
 \contentsline {section}{\numberline {1}Abstract}{2}
 \contentsline {section}{\numberline {2}Project Overview}{3}
 \contentsline {section}{\numberline {3}Progress To Date}{4}
-\contentsline {section}{\numberline {4}Remaining Tasks}{5}
-\contentsline {section}{\numberline {5}Sustainability Analysis}{6}
-\contentsline {section}{\numberline {6}Budget Summary}{7}
-\contentsline {section}{\numberline {7}Conclusions}{8}
-\contentsline {section}{\numberline {8}References}{9}
+\contentsline {subsection}{\numberline {3.1}Research}{5}
+\contentsline {subsection}{\numberline {3.2}Building Prototype}{5}
+\contentsline {section}{\numberline {4}Remaining Tasks}{6}
+\contentsline {section}{\numberline {5}Sustainability Analysis}{7}
+\contentsline {section}{\numberline {6}Budget Summary}{8}
+\contentsline {section}{\numberline {7}Conclusions}{9}
+\contentsline {section}{\numberline {8}References}{10}
